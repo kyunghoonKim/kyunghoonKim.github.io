@@ -15,7 +15,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "<kyunghoonKim/>"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -107,26 +107,26 @@ author:
   bio              : "I am an **amazing** person."
   location         : "South Korea"
   # email            : ""
-  author_work_experiences:
-    - company_name: Google
-      # company_logo: google.png
-      company_url: https://google.com
-      designation: Software Engineer
-      description: Worked on various Google Products
-      visibility: true
-    - company_name: Microsoft
-      # company_logo: microsoft.png
-      company_url: https://microsoft.com
-      designation: Azure Developer
-      description: Worked on various Azure Cloud Products
-      visibility: true
-  author_education_details:
-    - college_name: MIT
-      college_logo: mit.png
-      college_url: https://mit.org
-      college_degree: CS Engineer
-      description: Bachelor of Technology
-      visibility: true
+  # author_work_experiences:
+  #   - company_name: Google
+  #     # company_logo: google.png
+  #     company_url: https://google.com
+  #     designation: Software Engineer
+  #     description: Worked on various Google Products
+  #     visibility: true
+  #   - company_name: Microsoft
+  #     # company_logo: microsoft.png
+  #     company_url: https://microsoft.com
+  #     designation: Azure Developer
+  #     description: Worked on various Azure Cloud Products
+  #     visibility: true
+  # author_education_details:
+  #   - college_name: MIT
+  #     college_logo: mit.png
+  #     college_url: https://mit.org
+  #     college_degree: CS Engineer
+  #     description: Bachelor of Technology
+  #     visibility: true
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -306,6 +306,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
