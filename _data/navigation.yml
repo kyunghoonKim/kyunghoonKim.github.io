@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "HOME"
+  - title: "Home"
     url: https://kyunghoonkim.github.io/
   - title: "About"
     url: /about/
   - title: "Categories"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "덕스티스"
-    url: /categories/덕스티스/
+  # - title: "Tags"
+  #   url: /tags/
+  - title: "duckstice"
+    url: /categories/duckstice/

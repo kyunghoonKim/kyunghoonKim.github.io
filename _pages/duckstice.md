@@ -1,9 +1,9 @@
 ---
-title: "덕스티스리그"
-permalink: /categories/덕스티스/
+title: "Duckstice League"
+permalink: /categories/duckstice/
 layout: category
 author_profile: true
-taxonomy: 덕스티스
+taxonomy: duckstice
 ---
 
 덕스티스입니다. 용갤을 만들자.
