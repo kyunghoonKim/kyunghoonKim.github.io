@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "title"
+title                    : "ㅋㅋㅎ's blog"
 title_separator          : "-"
-subtitle                 : "subtitle" # site tagline that appears below site title in masthead
+subtitle                 : "ㅋㅋㅎ==ㅋㅋㅎ" # site tagline that appears below site title in masthead
 name                     : "kyunghoon Kim"
 description              : "An amazing website."
 url                      : "https://kyunghoonkim.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "`<`kyunghoonKim`/>`"
+  name             : "크크흐"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an **ㅋㅋㅎ** person."
   location         : "South Korea"
   # email            : ""
   # author_work_experiences:

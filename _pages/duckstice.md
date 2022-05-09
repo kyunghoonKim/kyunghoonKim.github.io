@@ -6,4 +6,4 @@ author_profile: true
 taxonomy: 덕스티스
 ---
 
-덕스티스입니다.
+덕스티스입니다. 용갤을 만들자.
