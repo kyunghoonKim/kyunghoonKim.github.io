@@ -6,7 +6,7 @@ main:
     url: /about/
   - title: "Categories"
     url: /categories/
-  # - title: "Tags"
-  #   url: /tags/
-  - title: "duckstice"
-    url: /categories/duckstice/
+  - title: "Tags"
+    url: /tags/
+  # - title: "duckstice"
+  #   url: /categories/duckstice/
