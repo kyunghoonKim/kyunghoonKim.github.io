@@ -6,7 +6,7 @@ tags: [용, 결혼]
 published: true
 ---
 
-## Investment status
+## status
 ---
 
 <br>
