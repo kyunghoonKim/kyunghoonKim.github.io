@@ -6,4 +6,4 @@ layout: single
 
 ## About
 
-* 김경훈
+* 김 개발자
