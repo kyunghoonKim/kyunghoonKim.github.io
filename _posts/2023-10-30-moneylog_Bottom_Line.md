@@ -1,6 +1,6 @@
 ---
 title: "2023년 10월 달러투자(환투자) 결산"
-date: 2023-11-03 19:00:00 +0900
+date: 2023-10-30 19:00:00 +0900
 categories: MoneyLog
 tags: [달러투자, 환투자]
 published: true
