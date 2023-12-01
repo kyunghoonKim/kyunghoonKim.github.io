@@ -38,5 +38,4 @@ published: true
 | 11/28/2023 | N6 | 1,292.72 | ₩199,997 |    $154.71  |  12/1/2023 | 1298.76  | ₩200,931  | ₩934 | 0.467% |
 |            |    |          |          |    $536.50  |            |          |           |₩3,141|        |
 
-## 누적 투자내역이 궁금하시다면?
-https://kyunghoonkim.github.io/moneylog/moneylog_Total/
+[누적 투자내역이 궁금하시다면?](https://kyunghoonkim.github.io/moneylog/moneylog_Total/)
