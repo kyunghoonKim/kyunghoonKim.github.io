@@ -3,7 +3,7 @@ title: "2023년 11월 달러투자(환투자) 결산"
 date: 2023-11-30 18:00:00 +0900
 categories: MoneyLog
 tags: [달러투자, 환투자]
-published: false
+published: true
 ---
 ## 요약
 시드를 키워야한다....
